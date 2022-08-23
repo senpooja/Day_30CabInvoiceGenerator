@@ -1,0 +1,5 @@
+D:\C#program\AddressBook1\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.csproj.AssemblyReference.cache
+D:\C#program\AddressBook1\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#program\AddressBook1\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.AssemblyInfoInputs.cache
+D:\C#program\AddressBook1\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.AssemblyInfo.cs
+D:\C#program\AddressBook1\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\net6.0\CabInvoiceGenerator.csproj.CoreCompileInputs.cache
